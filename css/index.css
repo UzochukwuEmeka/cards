@@ -5,8 +5,8 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 .container {
-  height: 150%;
-  max-height: 150%;
+  height: 200vh;
+  max-height: 200vh;
   width: 100%;
   background: linear-gradient(red, blue, pink);
   display: flex;
